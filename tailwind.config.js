@@ -30,6 +30,7 @@ module.exports = {
         lg: '39.6875rem',
       },
       fontSize: {
+        15: '.9375rem',
         '3xl': '2rem',
       },
       opacity: {

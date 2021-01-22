@@ -2,11 +2,13 @@ import React from 'react'
 
 function Grid() {
   return (
-    <article className="grid grid-cols-2 max-w-lg bg-neutral shadow-grid rounded-lg overflow-hidden">
-      <section className="col-span-full p-6 sm:p-10">
-        <h1 className="text-2xl font-bold text-primary mb-4">Join our community</h1>
-        <div className="text-lg font-bold text-primary-light mb-3">30-day, hassle-free money back guarantee</div>
-        <p>
+    <article className="grid sm:grid-cols-2 max-w-lg bg-neutral shadow-grid rounded-lg overflow-hidden">
+      <section className="col-span-full p-6 pt-7 pb-8 sm:p-10">
+        <h1 className="text-xl sm:text-2xl font-bold text-primary mb-4">Join our community</h1>
+        <div className="text-15 sm:text-lg font-bold text-primary-light mb-3">
+          30-day, hassle-free money back guarantee
+        </div>
+        <p className="text-sm sm:text-base">
           Gain access to our full library of tutorials along with expert code reviews. Perfect for any developers who
           are serious about honing their skills.
         </p>
