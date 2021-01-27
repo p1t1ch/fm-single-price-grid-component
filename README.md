@@ -1,4 +1,4 @@
-# Frontend Mentor: Profile card component
+# Frontend Mentor: Single price grid component
 
 <p align="center"><strong align="center">My solution for Frontend Mentor <a href="https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc">Single price grid component</a> challenge</strong></p>
 
